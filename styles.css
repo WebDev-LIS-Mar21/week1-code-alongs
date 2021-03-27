@@ -1,0 +1,38 @@
+body {
+    background-color: red;
+}
+
+nav {
+    background-color: blue;
+}
+
+.box {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    font-size: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.box-yellow {
+    /* background-color: yellow; */
+    background-color: #bec114;
+}
+
+.box-green {
+    background-color: rgb(109, 211, 109, 0.3);
+}
+
+#myDiv {
+    width: 400px;
+    height: 400px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    background-image: url('../images/apple-pie.jpg');
+    background-size: 400px 400px;
+    line-height: 400px;
+}
